@@ -7,10 +7,7 @@ import { X, Play } from "lucide-react";
 /* ================= DATA ================= */
 /* 👉 Add images + videos here */
 const gallery = [
-  {
-    type: "image",
-    src: "/gallery/pic1.jpg",
-  },
+
   {
     type: "image",
     src: "/gallery/pic2.JPG",
