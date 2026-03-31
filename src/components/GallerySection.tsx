@@ -9,15 +9,19 @@ import { X, Play } from "lucide-react";
 const gallery = [
   {
     type: "image",
-    src: "/gallery/pic2.jpg",
+    src: "/gallery/pic1.jpg",
+  },
+  {
+    type: "image",
+    src: "/gallery/pic2.JPG",
   },
     {
     type: "image",
-    src: "/gallery/pic3.jpg",
+    src: "/gallery/pic3.JPG",
   },
     {
     type: "image",
-    src: "/gallery/pic4.jpg",
+    src: "/gallery/pic4.JPG",
   },
   {
     type: "image",
