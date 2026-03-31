@@ -9,39 +9,39 @@ import { X, Play } from "lucide-react";
 const gallery = [
   {
     type: "image",
-    src: "public/gallery/pic2.jpg",
+    src: "/gallery/pic2.jpg",
   },
     {
     type: "image",
-    src: "public/gallery/pic3.jpg",
+    src: "/gallery/pic3.jpg",
   },
     {
     type: "image",
-    src: "public/gallery/pic4.jpg",
+    src: "/gallery/pic4.jpg",
   },
   {
     type: "image",
-    src: "public/gallery/pic5.jpg",
+    src: "/gallery/pic5.jpg",
   },
    {
     type: "image",
-    src: "public/gallery/pic6.jpg",
+    src: "/gallery/pic6.jpg",
   },
    {
     type: "image",
-    src: "public/gallery/pic7.jpg",
+    src: "/gallery/pic7.jpg",
   },
    {
     type: "image",
-    src: "public/gallery/pic8.jpg",
+    src: "/gallery/pic8.jpg",
   },
    {
     type: "image",
-    src: "public/gallery/pic9.jpg",
+    src: "/gallery/pic9.jpg",
   },
   {
     type: "video",
-    src: "public/gallery/video1.mp4", // local video
+    src: "/gallery/video1.mp4", // local video
   },
 ];
 
